@@ -1,4 +1,4 @@
-## Product Showcase
+## Art Work Showcase
 
 http://artworkshowcase.pythonanywhere.com/
 
@@ -12,5 +12,4 @@ The major features of this website are:
 * A 'Detail' page corresponding to every artwork containing details of that artwork.
 * Upvote a artwork (Only registered users can upvote a artwork).
 
-# artwork-showcase
 # artwork-showcase
